@@ -1002,6 +1002,14 @@ section {
   margin-bottom: 20px;
 }
 
+.pricing .box h2 {
+  font-size: 30px;
+  color: #009961;
+  font-weight: 500;
+  font-family: "Open Sans", sans-serif;
+  margin-bottom: 20px;
+}
+
 .pricing .box h4 sup {
   font-size: 20px;
   top: -15px;
